@@ -6,6 +6,7 @@ var canvas = document.querySelector('canvas'),
 
 var color2 = ['#113E3E', '#578A8D', '#272A1C', '#3F473C', '#3F473C']
 var color=['#2D5F73','#538EA6','#F2D1B3','#F2B8A2','#F2B8A2']
+var color3=[]
 
 var mouse = {
     x: undefined,
